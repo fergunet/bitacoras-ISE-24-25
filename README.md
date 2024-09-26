@@ -11,15 +11,15 @@ Sigue los pasos a continuación para añadir tu bitácora a este repositorio uti
 ### 1. Crea tu repositorio privado en GitHub
 1. Inicia sesión en tu cuenta de GitHub y crea un repositorio privado llamado **`practicas-ISE`**.
 2. Dentro de tu repositorio, lleva un registro de tu progreso en las prácticas de la asignatura.
-3. Invita al profesor como colaborador a tu repositorio privado para que pueda revisarlo. El usuario del profesor en GitHub es: `juanluck`.
+3. Invita al profesor como colaborador a tu repositorio privado para que pueda revisarlo. El usuario del profesor en GitHub es: `fergunet`.
 
 ### 2. Haz un **Fork** del repositorio del profesor
-1. Ve a la página del repositorio del profesor: `https://github.com/juanluck/bitacoras-ISE-24-25`.
+1. Ve a la página del repositorio del profesor: `https://github.com/fergunet/bitacoras-ISE-24-25`.
 2. Haz clic en el botón **Fork** en la esquina superior derecha. Esto creará una copia del repositorio en tu propia cuenta de GitHub.
 
-### 3. Edita el archivo C1/README.md desde la web
-1. Dentro de tu fork (el repositorio que acabas de copiar a tu cuenta), crea un nuevo fichero llamado ´tu_usuario_en_github.md´ dentro de la carpeta de tu subgrupo (por ejemplo `C1`). Para ello:
-2. Haz clic en `Add file` y escribe la ruta completa ´C1/tu_usuario.md´.
+### 3. Edita el archivo D2/tu-usuario.md desde la web
+1. Dentro de tu fork (el repositorio que acabas de copiar a tu cuenta), crea un nuevo fichero llamado ´tu_usuario_en_github.md´ dentro de la carpeta de tu subgrupo (por ejemplo `D2`). Para ello:
+2. Haz clic en `Add file` y escribe la ruta completa ´D2/tu_usuario.md´.
 3. Luego, haz clic en el icono del lápiz (✏️) en la esquina superior derecha del archivo para editarlo.
 4. Introduce un enlace a tu repositorio:
    ```markdown
