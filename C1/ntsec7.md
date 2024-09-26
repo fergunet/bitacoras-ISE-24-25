@@ -1,1 +1,0 @@
-- [ntsec7] https://github.com/ntsec7/Practicas-ISE
