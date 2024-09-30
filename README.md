@@ -23,12 +23,12 @@ Sigue los pasos a continuación para añadir tu bitácora a este repositorio uti
 3. Luego, haz clic en el icono del lápiz (✏️) en la esquina superior derecha del archivo para editarlo.
 4. Introduce un enlace a tu repositorio:
    ```markdown
-   - [Nombre y Apellido(s)](https://github.com/tu-usuario/practicas-ISE)
+   - [Nombre e inicial de los apellidos](https://github.com/tu-usuario/practicas-ISE)
    ```
 Por ejemplo:
-- [Juan Álvarez](https://github.com/juanpe/practicas-ISE)
+- [Juan A.](https://github.com/juanpe/practicas-ISE)
 o
-- [María García Pérez](https://github.com/mariki/practicas-ISE)
+- [María G.P.](https://github.com/mariki/practicas-ISE)
 
 5. Desplázate hasta el final de la página y escribe un mensaje de confirmación en el campo **Commit changes**. Ejemplo: "Agrego enlace a mi bitácora".
 6. Haz clic en **Commit changes** para guardar tus cambios en tu fork.
