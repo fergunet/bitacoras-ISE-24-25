@@ -1,1 +1,1 @@
-- Jose Carlos R.M.(https://github.com/jcrocamar/bitacoras-ISE-24-25)
+- Jose Carlos R.M.(https://github.com/jcrocamar/practicasISE)
